@@ -1,7 +1,7 @@
 # Shoot 'Em Down 
 A 2D Shoot 'Em Up game (STG) developed with Java and its native library.
 
-### [Download](https://github.com/NERDYLIZARD/shoot-em-down/releases)
+### [Download](https://github.com/NERDYLIZARD/shoot-em-down/releases/download/1.0.0/Shoot-em-down-v1.0.0.jar)
 
 ## Demo
 ![Demo](https://github.com/NERDYLIZARD/shoot-em-down/blob/upload-gif-file/shoot-em-down-demo.gif?raw=true "Demo")
