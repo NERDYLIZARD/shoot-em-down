@@ -1,6 +1,8 @@
 # Shoot 'Em Down 
 A 2D Shoot 'Em Up game (STG) developed with Java and its native library.
 
+A player must shoot all enemies down within the time-bound, or they will keep respawning which makes a stage harder to defeat. Each enemy's death may drop any of three special runes: First, the "Power Rune" - a collection of which widens the firing angle of the player. Second, the "Slow Down Rune" that gives the player a special ability to slow down the movement of all enemies. Third, the "Life Rune" that increases the player's health point.
+
 ### [Download](https://github.com/NERDYLIZARD/shoot-em-down/releases/download/1.0.0/Shoot-em-down-v1.0.0.jar)
 
 ## Demo
